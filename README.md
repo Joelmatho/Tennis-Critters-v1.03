@@ -27,7 +27,7 @@ To address audio problems, updating the OpenAL library can be beneficial.
    - Rename `soft_oal.dll` to `OpenAL32.dll`.
    - Place the renamed `OpenAL32.dll` in the same directory as the game's executable file.
 
-**Important Note**: Some users have reported that replacing the `OpenAL32.dll` with OpenAL Soft's version can cause issues with certain audio formats, such as WAV files. If you experience audio playback problems after updating to OpenAL Soft, consider reverting to the original `OpenAL32.dll` provided with the game.
+**Important Note**: Some users have reported that replacing the `OpenAL32.dll` with OpenAL Soft's version can cause issues with certain audio formats, such as WAV files. If you experience audio playback problems after updating to OpenAL Soft, consider reverting to the original `OpenAL32.dll` provided with the game. **If you find a fix, please make a pull request.**
 
 ## Acknowledgments
 
