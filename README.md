@@ -12,7 +12,7 @@ The decompilation was performed using [DSO Sharp](https://github.com/Elletra/dso
 
 If you experience flickering shadows during gameplay, replacing the `Opengl32.dll` file with a compatible version can help.
 
-1. **Download the DLL**: Obtain the `Opengl32.dll` from [Mesa3D for Windows](https://fdossena.com/?p=mesa%2Findex.frag).
+1. **Download the DLL**: Obtain the `Opengl32.dll` from [Mesa3D for Windows]([https://fdossena.com/?p=mesa%2Findex.frag](https://github.com/lightningterror/Mesa3D-Windows)).
 2. **Replace the DLL**: Replace `Opengl2d3d.dll` with the downloaded `Opengl32.dll`.
 
 ### Audio Issues
