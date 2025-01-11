@@ -32,7 +32,7 @@ To address audio problems, updating the OpenAL library can be beneficial.
 ## Acknowledgments
 
 - [DSO Sharp](https://github.com/Elletra/dso-sharp) for the decompilation tool.
-- [Mesa3D for Windows](https://fdossena.com/?p=mesa%2Findex.frag) for the OpenGL DLL.
+- [Mesa3D for Windows](https://fdossena.com/?p=mesa%2Findex.frag](https://github.com/lightningterror/Mesa3D-Windows) for the OpenGL DLL.
 - [OpenAL Soft](https://github.com/kcat/openal-soft) for the audio library.
 
 For further information and updates, please refer to the respective repositories linked above. 
