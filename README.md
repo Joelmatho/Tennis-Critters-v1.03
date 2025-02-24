@@ -2,10 +2,6 @@
 
 This repository contains the decompiled source code for **Tennis Critters v1.03**, a classic game originally released in 2007. The decompilation was achieved using the [DSO Sharp](https://github.com/Elletra/dso-sharp) tool.
 
-## Decompilation Tool
-
-The decompilation was performed using [DSO Sharp](https://github.com/Elletra/dso-sharp), a DSO decompiler for the Torque Game Engine. It converts `.dso` files back into TorqueScript, facilitating analysis and modification.
-
 ## Resolving Common Issues
 
 ### Flickering Shadows
