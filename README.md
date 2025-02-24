@@ -6,7 +6,7 @@ This repository contains the decompiled source code for **Tennis Critters v1.03*
 
 ### Flickering Shadows
 
-If you experience flickering shadows during gameplay, replacing the `Opengl32.dll` file with a compatible version can help.
+If you experience flickering shadows during gameplay, replacing the `Opengl2d3d.dll` file with a compatible version can help.
 
 1. **Download the DLL**: Obtain the `Opengl32.dll` from [Mesa3D for Windows](https://github.com/lightningterror/Mesa3D-Windows).
 2. **Replace the DLL**: Replace `Opengl2d3d.dll` with the downloaded `Opengl32.dll`.
